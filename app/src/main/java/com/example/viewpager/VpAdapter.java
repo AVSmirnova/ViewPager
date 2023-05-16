@@ -18,6 +18,6 @@ public class VpAdapter extends FragmentStateAdapter {
 
     @Override
     public int getItemCount() {
-        return 10;
+        return 4;
     }
 }
